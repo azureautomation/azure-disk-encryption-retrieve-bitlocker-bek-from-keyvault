@@ -1,0 +1,20 @@
+{
+    "Author": "Michael Roger",
+    "ContentSize": 4606,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-disk-encryption-retrieve-bitlocker-bek-from-keyvault/master/RetrieveBekFromKeyVault.ps1",
+    "DownloadCount": 965,
+    "Id": "Azure-Disk-Encryption-c700fdaa",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 136,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-5-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script can be used to retrieve the Bitocker BEK files from Azure Key Vault. It supports the both standard secrets and all secrets protected by a Key Encryption Key.Firstly to run the script there are a few things to consider:The user who is running the commands must have t",
+    "Title": "Azure Disk Encryption: Retrieve Bitlocker BEK from KeyVault",
+    "UpdatedDate": "2016-5-3T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-disk-encryption-retrieve-bitlocker-bek-from-keyvault",
+    "UserTags": "Microsoft Azure, BitLocker, Key Vault"
+}
